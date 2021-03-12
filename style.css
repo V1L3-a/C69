@@ -1,0 +1,69 @@
+html {
+    text-align: center;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+}
+
+p {
+    font-size: 100px;
+    font-family: fantasy;
+}
+
+#Panda {
+    background-color: #fff6c6;
+}
+
+#Kitty {
+    background-color: #f27478;
+}
+
+#Puppy {
+    background-color: #e0863c;
+}
+
+#Owl {
+    background-color: #98b7e0;
+}
+
+#Fox {
+    background-color: #74c8ba;
+}
+
+#Bunny {
+    background-color: #cba5cd;
+}
+
+#Chick {
+    background-color: #8dc63e;
+}
+
+#pa {
+  color: #c9c29d; 
+}
+
+#ki {
+  color: #b5575a;
+}
+
+#pu {
+  color: #ab652c;  
+}
+
+#ow {
+  color: #6a7f9c;
+}
+
+#fo {
+  color: #57968c;    
+}
+
+#bu {
+  color: #8d728f;    
+}
+
+#ch {
+  color: #628a2b;    
+}
